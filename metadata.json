@@ -1,0 +1,8 @@
+{
+  "name": "Clip Studio AI",
+  "description": "In-browser video editor with AI-powered transitions, automatic intelligent color grading, real-time filters, multi-clip timeline, and video export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
